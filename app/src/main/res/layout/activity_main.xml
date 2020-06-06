@@ -12,7 +12,6 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/bg_custom_textview"
         app:bgFastTextViewIconColor="#5776FF"
         app:customFontFamilyFastTextView="font.ttf"
         app:fastTextViewColor="@color/colorAccent"
@@ -20,5 +19,6 @@
         app:srcFastIconTextView="@drawable/ic_launcher_foreground"
         app:textFastTextView="@string/app_name"
         app:textSizeFastTextView="12sp" />
+<!--        android:background="@drawable/bg_custom_textview"-->
 
 </LinearLayout>
