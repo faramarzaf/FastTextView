@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FastTextView">
+        <attr name="fastTextViewColor" format="color" />
+        <attr name="bgFastTextViewIconColor" format="color" />
+        <attr name="iconFastTextViewColor" format="color" />
+        <attr name="srcFastIconTextView" format="reference" />
+        <attr name="textSizeFastTextView" format="dimension" />
+        <attr name="customFontFamilyFastTextView" format="string" />
+        <attr name="textFastTextView" format="string" />
+
+    </declare-styleable>
+
+</resources>
