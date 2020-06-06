@@ -19,7 +19,7 @@ dependencies {
 
 
 ```xml
-    <com.faramarz.material.en.FastTextView.FastTextView
+    <com.faramarz.material.en.fasttextview.FastTextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
